@@ -1,0 +1,16 @@
+{
+  "name": "playwright-e2e-tests",
+  "version": "1.0.0",
+  "description": "Playwright E2E Tests with AI Capabilities incl MCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playwright",
+    "playwright-e2e-tests",
+    "playwright-mcp"
+  ],
+  "author": "Nita Amalia",
+  "license": "ISC"
+}
